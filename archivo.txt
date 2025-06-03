@@ -4,3 +4,10 @@ commit 3 y push
 
 commit 6 user 3
 commit 7 user 3
+commit 4 user 1
+commit 5 user 1
+commit 8 user 2
+commit 9 user 2
+commit 10 user 2
+commit 12 user 2
+commit 13 user 2
